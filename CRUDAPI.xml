@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductCRUDAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ProductCRUDAPI.Controllers.ProductsController.Get">
+            <summary>
+            Get Products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProductCRUDAPI.Controllers.ProductsController.Get(System.Int32)">
+            <summary>
+            Get specific Product by ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductCRUDAPI.Controllers.ProductsController.Post(ProductCRUDAPI.Models.Product)">
+            <summary>
+            Add new Product
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductCRUDAPI.Controllers.ProductsController.Put(System.Nullable{System.Int32},ProductCRUDAPI.Models.Product)">
+            <summary>
+            Update Product by ID
+            </summary>
+            <param name="id"></param>
+            <param name="productData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductCRUDAPI.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>
+            Delete Product by ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductCRUDAPI.Controllers.WeatherForecastController.Get">
+            <summary>
+            This is just a Testing
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

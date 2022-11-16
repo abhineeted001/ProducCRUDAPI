@@ -18,6 +18,11 @@ namespace ProductCRUDAPI.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// This is just a Testing
+        /// </summary>
+        /// <returns></returns>
+
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
