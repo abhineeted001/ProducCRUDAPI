@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhineet.singh\\Source\\Repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj": {}
+    "C:\\Users\\abhineet.singh\\source\\repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhineet.singh\\Source\\Repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj": {
+    "C:\\Users\\abhineet.singh\\source\\repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhineet.singh\\Source\\Repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
+        "projectUniqueName": "C:\\Users\\abhineet.singh\\source\\repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
         "projectName": "ProductCRUDAPI",
-        "projectPath": "C:\\Users\\abhineet.singh\\Source\\Repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
+        "projectPath": "C:\\Users\\abhineet.singh\\source\\repos\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
         "packagesPath": "C:\\Users\\abhineet.singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhineet.singh\\source\\repos\\ProductCRUDAPI\\obj\\",
+        "outputPath": "C:\\Users\\abhineet.singh\\Source\\Repos\\ProductCRUDAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhineet.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
